@@ -1,0 +1,25 @@
+* {
+	font-family: lobster;
+	font-weight: 100;
+	font-size: 20px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.prueba1 {
+	height: 100px;
+	width: 100px;
+	background: red;
+	transition: all 1s
+}
+
+.prueba1:hover {
+	background: orange;
+	height: 400px;
+	width: 400px ;
+}
+
+a:link {
+	color: red;
+}
+
